@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My blog</title>
+    <link>http://leg.ufpr.br/~ara/vera_teste/tags/</link>
+    <description>Recent content in Tags on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/vera_teste/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/demo/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/demo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/shortcode/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/redirect/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redirectUrl</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/redirecturl/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/css/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/html/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/markdown/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/privacy/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/shortcodes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/text/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/emoji/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/thumbnail/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://leg.ufpr.br/~ara/vera_teste/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/vera_teste/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
