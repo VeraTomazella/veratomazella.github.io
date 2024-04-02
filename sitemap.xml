@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://leg.ufpr.br/~ara/vera_teste/en/sitemap.xml</loc>
+    <loc>en/sitemap.xml</loc>
     
       <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://leg.ufpr.br/~ara/vera_teste/ar/sitemap.xml</loc>
+    <loc>ar/sitemap.xml</loc>
     
       <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     
